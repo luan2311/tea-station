@@ -82,6 +82,7 @@
   }
 
   .dropdown-menu {
+    line-height: 1;
     @apply absolute right-8 top-[70%] w-[300px] bg-p-900 backdrop-blur-[15px] rounded-lg overflow-hidden flex flex-col gap-4 items-center justify-center h-0 transition-all duration-200 ease-in-out;
   }
 

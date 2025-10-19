@@ -614,6 +614,7 @@
     }
   }
   .dropdown-menu {
+    line-height: 1;
     position: absolute;
     top: 70%;
     right: calc(var(--spacing) * 8);
